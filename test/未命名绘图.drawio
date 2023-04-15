@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-04-15T15:36:22.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="o1ZubF76UdY7EKzp8z3j" version="21.1.7" type="github">
+  <diagram name="第 1 页" id="4BP5UFmYmfHCPq6p5SqR">
+    <mxGraphModel dx="1420" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="400" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-2" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="130" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-3" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="130" width="315" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-4" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="485" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-5" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-6" value="&lt;div style=&quot;&quot;&gt;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: initial; color: rgb(240, 240, 240); --darkreader-inline-bgcolor: initial; --darkreader-inline-color:#dfdcd7;&quot;&gt;&amp;nbsp; &amp;nbsp;springboot微服务&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="105" y="340" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-7" value="MS sql server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="690" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-8" value="控制层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-9" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="387.5" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-10" value="持久层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xWdIqqFXcE5dGAKo-V1U-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=6;endSize=8.03;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.317;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xWdIqqFXcE5dGAKo-V1U-7" target="xWdIqqFXcE5dGAKo-V1U-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="290" y="710" as="sourcePoint" />
+            <mxPoint x="390" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
